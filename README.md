@@ -20,7 +20,7 @@ Correlation levels can rise during market stress, meaning that a portfolio that 
 
 ## Example Research Question
 Are the historic performances of the stocks in my portfolio correlated or not? And by how much?
-## Example Interpretation of Results
+### Example Interpretation of Results
 Historic correlation of stocks VERY HIGH --> high possibility that the stocks could rise or fall in value together in the future.
 
 ## Future Improvements
