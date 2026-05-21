@@ -26,3 +26,5 @@ Historic correlation of stocks VERY HIGH --> high possibility that the stocks co
 ## Future Improvements
 - Add portfolio risk scoring
 - Build web app version
+
+#### Developed with assistance from ChatGPT
